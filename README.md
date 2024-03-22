@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>👂 My name is Tushar Deshmukh <br>🔭 I’m currently working on Software Developer <br>🌱 I’m currently explore Advance Backend <br><br>
+<br>👂 My name is Tushar Deshmukh <br>🔭 I’m currently working on Software Developer <br><br>
 
 
 ## 🌐 Socials:
