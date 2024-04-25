@@ -1,10 +1,11 @@
 # 💫 About Me:
-<br>👂 My name is Tushar Deshmukh <br>🔭 I’m currently working on Software Developer <br><br> ![image](https://github.com/tushii05/tushii05/assets/104415590/62d6b2e2-06aa-42f7-87c6-ee3111b35a3e)  
-coral Commerce America Merchant Portal
-Strip 
-Paypal 
-CoinBase 
+<br>👂 My name is Tushar Deshmukh <br>🔭 I’m currently working on Software Developer <br><br> 
 
+## Integration Payment Gateway :
+- Coral Commerce America Merchant Portal
+- Stripe 
+- PayPal 
+- Coinbase
 
 
 ## 🌐 Socials:
