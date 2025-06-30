@@ -6,6 +6,7 @@
 - Stripe 
 - PayPal 
 - Coinbase
+- CoinSub
 
 
 ## 🌐 Socials:
